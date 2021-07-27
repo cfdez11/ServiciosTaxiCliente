@@ -1,0 +1,49 @@
+//Servicio context
+export const FORMULARIO_SERVICIO = 'FORMULARIO_SERVICIO';
+export const OCULTAR_FORMULARIO = 'OCULTAR_FORMULARIO';
+export const ERROR_FORMULARIO = 'VALIDAR_FORMULARIO';
+export const SERVICIOS_ANO = 'SERVICIOS_ANO';
+export const SERVICIOS_MES = 'SERVICIOS_MES';
+export const SERVICIOS_SEMANA = 'SERVICIOS_SEMANA';
+export const SERVICIOS_DIA = 'SERVICIOS_DIA';
+export const SERVICIOS_ID = 'SERVICIOS_ID';
+export const AGREGAR_SERVICIO = 'AGREGAR_SERVICIO';
+export const ELIMINAR_SERVICIO = 'ELIMINAR_SERVICIO';
+export const MODIFICA_SERVICIO = 'MODIFICA_SERVICIO';
+export const SERVICIO_ACTUAL = 'SERVICIO_ACTUAL';
+export const MAS_INFO = 'MAS_INFO';
+
+//Grupo context
+export const AGRUPADO_POR = 'AGRUPADO_POR';
+export const ERROR_FORMULARIOGRUPO = 'VALIDAR_FORMULARIOGRUPO';
+
+//Alerta context
+export const MOSTRAR_ALERTA = 'MOSTRAR_ALERTA';
+export const OCULTAR_ALERTA = 'OCULTAR_ALERTA';
+
+//Autenticacion context
+export const REGISTRO_CORRECTO = 'REGISTRO_CORRECTO';
+export const REGISTRO_ERROR = 'REGISTRO_ERROR';
+export const OBTENER_USUARIO = 'OBTENER_USUARIO';
+export const LOGIN_CORRECTO = 'LOGIN_CORRECTO';
+export const LOGIN_ERROR = 'LOGIN_ERROR';
+export const CERRAR_SESION = 'CERRAR_SESION';
+export const MODIFICAR_USUARIO = 'MODIFICAR_USUARIO';
+
+//Zona context
+export const OCULTAR_ZONAS = 'OCULTAR_ZONAS';
+export const MOSTRAR_ZONAS = 'MOSTRAR_ZONAS';
+export const AGREGAR_ZONA = 'AGREGAR_ZONA';
+export const OBTENER_ZONAS = 'OBTENER_ZONAS';
+export const ELIMINAR_ZONA = 'ELIMINAR_ZONA';
+
+
+
+
+
+
+
+
+
+
+
